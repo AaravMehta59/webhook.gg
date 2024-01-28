@@ -9,7 +9,7 @@ var rl = readline.createInterface({
 
 /*
  *
- *  WEBHOOK.GG - Copyright 2024 - Aarav Mehta - All rights reserved.
+ *  WEBHOOK.GG - Made with ❤ by Aarav Mehta 
  *  Aarav Mehta - https://aaravm.me/
  *
  */
