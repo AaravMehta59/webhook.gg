@@ -39,7 +39,7 @@ rl.question(`[webhook.gg] The Webhook URL you want to send messages to :\n`, url
               avatarURL: avatarData
             })
             rl.close()
-            console.log(`[webhook.gg] Sent ${message} to your webhook! Exiting the process now!`)
+            console.log(`[webhook.gg] Sent ${message} to your webhook!`)
             i++
           } while(i != times);
           console.log("[NodeJS Runtime Enviroment] Process Completed! Closing NodeJS Engine Now!")
